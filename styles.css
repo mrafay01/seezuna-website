@@ -1087,17 +1087,17 @@ body {
 
 .map-placeholder {
   background: #0f172a;
-  padding: 3rem;
+  padding: 1rem;
   border-radius: 8px;
   text-align: center;
   color: var(--color-text-muted);
   border: 1px solid var(--color-border);
 }
 
-.map-placeholder i {
+.map-placeholder iframe {
   font-size: 3rem;
   color: var(--color-brand);
-  margin-bottom: 1rem;
+  /* margin-bottom: 1rem; */
 }
 
 /* Footer */
